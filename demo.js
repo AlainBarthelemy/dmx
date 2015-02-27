@@ -5,7 +5,7 @@ var A = DMX.Animation
 
 var dmx = new DMX()
 
-// var universe = dmx.addUniverse('demo', 'enttec-usb-dmx-pro', 0)
+var universe = dmx.addUniverse('demo', 'enttec-usb-dmx-pro', 0)
 // var universe = dmx.addUniverse('demo', 'enttec-open-usb-dmx', 0)
 var universe = dmx.addUniverse('demo', 'null')
 
